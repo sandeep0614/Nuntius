@@ -24,16 +24,19 @@
 ### **Login Page**
 #### This is the login page for the registered Nuntius user.
 <br/>
+
 ![Login Page](login.jpeg)
 
 ### **Signup Page**
 #### This is the signup page for the new Nuntius user.
 <br/>
+
 ![Signup Page](register.jpeg)
 
 ### **Chat Interface**
 #### This is the chatting interface between two Nuntius users.
 <br/>
+
 ![Chatting Interface](chat.jpeg)
 <br/>
 <br/>
