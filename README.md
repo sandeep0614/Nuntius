@@ -1,6 +1,6 @@
 # Nuntius
 
-### A Real time chatting android based smartphone application tailor made for allowing users to have personal chats with each other. Enabled firebase authentication for security and enabling login/signup feature.Integrated with Google Firebase for storing and retrieving messages later on through recyclerView using multi viewHolder.Engineered easy search feature for users and messages.Compatible with both potrait and landscape viewport orientation. 
+### A Real time chatting android based smartphone application tailor made for allowing users to have personal chats with each other. Enabled firebase authentication for security and enabling login/signup feature.Integrated with Google Firebase for storing and retrieving messages later on through recyclerView using multi viewHolder.Engineered easy search feature for users.Compatible with both potrait and landscape viewport orientation. 
 <br/>
 <br/>
 
